@@ -1,0 +1,6 @@
+ccdproc~=2.5.1
+astropy~=7.2.0
+numpy~=2.4.2
+matplotlib~=3.10.8
+astroalign~=2.6.2
+sep~=1.4.1
