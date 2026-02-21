@@ -3,3 +3,4 @@
 /generated/combined/
 /generated/flat-fielded/
 /generated/masters/
+.env
