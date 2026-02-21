@@ -5,3 +5,5 @@ matplotlib~=3.10.8
 astroalign~=2.6.2
 sep~=1.4.1
 seaborn
+pandas
+scipy
