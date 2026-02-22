@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33622ab9-36c7-41d1-829d-a7158ff862d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/photometry/MIST.iso" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/photometry/MIST_v1.2_vvcrit0.4_UBVRIplus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_mist_models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Master.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,9 @@
       <workItem from="1771551629094" duration="1536000" />
       <workItem from="1771627456584" duration="1242000" />
       <workItem from="1771685302888" duration="3670000" />
-      <workItem from="1771708201132" duration="2824000" />
+      <workItem from="1771708201132" duration="2896000" />
+      <workItem from="1771711933783" duration="732000" />
+      <workItem from="1771715779187" duration="3268000" />
     </task>
     <servers />
   </component>
