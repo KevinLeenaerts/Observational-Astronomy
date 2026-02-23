@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33622ab9-36c7-41d1-829d-a7158ff862d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ObservationalAstronomy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ObservationalAstronomy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Master.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +52,15 @@
       <recent name="C:\Users\Kevin\Desktop\Observational-Astronomy\data\photometry" />
       <recent name="C:\Users\Kevin\Desktop\Observational-Astronomy\data\urat" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ObservationalAstronomy\data\photometry" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
-        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -72,21 +78,12 @@
       <workItem from="1771708201132" duration="2896000" />
       <workItem from="1771711933783" duration="732000" />
       <workItem from="1771715779187" duration="3268000" />
+      <workItem from="1771855251329" duration="858000" />
+      <workItem from="1771856157587" duration="2669000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Master.ipynb</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
