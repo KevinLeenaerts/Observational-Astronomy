@@ -9,3 +9,4 @@ pandas
 scipy
 astroquery
 python-dotenv
+speclite
