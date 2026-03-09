@@ -5,3 +5,5 @@
 /generated/masters/
 .env
 data/photometry/MIST_v1.2_vvcrit0.4_UBVRIplus
+/data/science
+/data/flats

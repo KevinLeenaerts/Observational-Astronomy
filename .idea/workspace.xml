@@ -2,11 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33622ab9-36c7-41d1-829d-a7158ff862d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Plots.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Master.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/asu.fit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat10V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat10r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat1V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat1r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat2V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat2r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat3V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat3r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat4V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat4r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat5V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat5r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat6V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat6r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat7V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat7r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat8V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat8r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat9V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flats/flat9r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science10V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science10r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science1V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science1r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science2V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science2r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science3V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science3r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science4V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science4r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science5V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science5r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science6V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science6r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science7V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science7r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science8V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science8r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science9V.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/science/science9r.FIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/urat/asu.fit" beforeDir="false" afterPath="$PROJECT_DIR$/data/urat/asu.fit" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +79,7 @@
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kevin/Desktop/Observational-Astronomy/data/photometry&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ObservationalAstronomy/data/urat&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -49,6 +87,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ObservationalAstronomy\data\urat" />
       <recent name="C:\Users\Kevin\Desktop\Observational-Astronomy\data\photometry" />
       <recent name="C:\Users\Kevin\Desktop\Observational-Astronomy\data\urat" />
     </key>
@@ -83,6 +122,13 @@
       <workItem from="1771970882038" duration="5666000" />
       <workItem from="1771983193823" duration="1101000" />
       <workItem from="1772023383860" duration="82000" />
+      <workItem from="1772049058525" duration="42000" />
+      <workItem from="1772485527022" duration="3765000" />
+      <workItem from="1772664222570" duration="630000" />
+      <workItem from="1772666364476" duration="102000" />
+      <workItem from="1772669129398" duration="1461000" />
+      <workItem from="1772886002193" duration="123000" />
+      <workItem from="1772999704873" duration="2476000" />
     </task>
     <servers />
   </component>
