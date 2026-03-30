@@ -4,47 +4,9 @@
     <list default="true" id="33622ab9-36c7-41d1-829d-a7158ff862d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Master.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat10V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat10r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat1V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat1r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat2V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat2r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat3V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat3r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat4V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat4r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat5V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat5r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat6V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat6r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat7V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat7r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat8V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat8r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat9V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flats/flat9r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science10V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science10r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science1V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science1r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science2V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science2r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science3V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science3r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science4V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science4r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science5V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science5r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science6V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science6r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science7V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science7r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science8V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science8r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science9V.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/science/science9r.FIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/urat/asu.fit" beforeDir="false" afterPath="$PROJECT_DIR$/data/urat/asu.fit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/sdss_filters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +39,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/ObservationalAstronomy/data/urat&quot;,
@@ -98,8 +61,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.220" />
+        <option value="bundled-python-sdk-5d36be30529c-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.220" />
       </set>
     </attachedChunks>
   </component>
@@ -129,10 +92,39 @@
       <workItem from="1772669129398" duration="1461000" />
       <workItem from="1772886002193" duration="123000" />
       <workItem from="1772999704873" duration="2476000" />
+      <workItem from="1773062245670" duration="2124000" />
+      <workItem from="1773178576821" duration="57000" />
+      <workItem from="1773244147041" duration="11664000" />
+      <workItem from="1773327000718" duration="296000" />
+      <workItem from="1773786537168" duration="317000" />
+      <workItem from="1773844248319" duration="31000" />
+      <workItem from="1773871160979" duration="1374000" />
+      <workItem from="1773932349782" duration="27000" />
+      <workItem from="1773944548885" duration="5290000" />
+      <workItem from="1774095913101" duration="25000" />
+      <workItem from="1774452363074" duration="3055000" />
+      <workItem from="1774475866375" duration="2666000" />
+      <workItem from="1774523634856" duration="386000" />
+      <workItem from="1774547452924" duration="2254000" />
+      <workItem from="1774602785583" duration="1048000" />
+      <workItem from="1774604533515" duration="70000" />
+      <workItem from="1774784764423" duration="6991000" />
+      <workItem from="1774796153683" duration="2573000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Master.ipynb</url>
+          <line>297</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

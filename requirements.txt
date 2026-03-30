@@ -10,3 +10,5 @@ scipy
 astroquery
 python-dotenv
 speclite
+
+astroplan
