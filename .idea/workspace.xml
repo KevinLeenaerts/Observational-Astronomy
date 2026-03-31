@@ -5,8 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Master.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/sdss_filters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/NGC2281_altitude_date.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/NGC2281_altitude_date.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/NGC2281_moon_sep_alt.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/NGC2281_moon_sep_alt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/NGC2281_zenith_azimuth.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/NGC2281_zenith_azimuth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/sdss_filters.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/sdss_filters.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +38,14 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/ObservationalAstronomy/data/urat&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ObservationalAstronomy&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -50,11 +53,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ObservationalAstronomy" />
+      <recent name="C:\ObservationalAstronomy\data\sloang" />
       <recent name="C:\ObservationalAstronomy\data\urat" />
       <recent name="C:\Users\Kevin\Desktop\Observational-Astronomy\data\photometry" />
       <recent name="C:\Users\Kevin\Desktop\Observational-Astronomy\data\urat" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ObservationalAstronomy\data\sloanr\lights" />
+      <recent name="C:\ObservationalAstronomy\data\sloang\lights" />
+      <recent name="C:\ObservationalAstronomy\data\sloanr\flats" />
+      <recent name="C:\ObservationalAstronomy\data\sloang\flats" />
       <recent name="C:\ObservationalAstronomy\data\photometry" />
     </key>
   </component>
@@ -110,6 +119,9 @@
       <workItem from="1774604533515" duration="70000" />
       <workItem from="1774784764423" duration="6991000" />
       <workItem from="1774796153683" duration="2573000" />
+      <workItem from="1774874436713" duration="18577000" />
+      <workItem from="1774914464421" duration="3543000" />
+      <workItem from="1774960809364" duration="7325000" />
     </task>
     <servers />
   </component>
@@ -121,8 +133,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/Master.ipynb</url>
-          <line>297</line>
+          <line>690</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Master.ipynb</url>
+          <line>698</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
