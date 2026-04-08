@@ -4,11 +4,16 @@
     <list default="true" id="33622ab9-36c7-41d1-829d-a7158ff862d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Master.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/NGC2281_altitude_date.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/NGC2281_altitude_date.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/NGC2281_moon_sep_alt.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/NGC2281_moon_sep_alt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/NGC2281_zenith_azimuth.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/NGC2281_zenith_azimuth.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/sdss_filters.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/sdss_filters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/background_substraction.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/background_substraction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/calibrated_cmd.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/calibrated_cmd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/cmd_uncalibrated.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/cmd_uncalibrated.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/combined_lights.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/combined_lights.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/flat_field_example.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/flat_field_example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/isochrone_cmd.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/isochrone_cmd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/master_flats.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/master_flats.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/photometric_zero_points.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/photometric_zero_points.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/urat1_matches.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/urat1_matches.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,26 +127,18 @@
       <workItem from="1774874436713" duration="18577000" />
       <workItem from="1774914464421" duration="3543000" />
       <workItem from="1774960809364" duration="7325000" />
+      <workItem from="1775249143873" duration="5073000" />
+      <workItem from="1775254587583" duration="184000" />
+      <workItem from="1775255032612" duration="5253000" />
+      <workItem from="1775264264394" duration="4169000" />
+      <workItem from="1775417256364" duration="2695000" />
+      <workItem from="1775503336452" duration="696000" />
+      <workItem from="1775571780493" duration="1469000" />
+      <workItem from="1775671845621" duration="3178000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Master.ipynb</url>
-          <line>690</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Master.ipynb</url>
-          <line>698</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
